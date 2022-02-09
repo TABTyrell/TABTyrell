@@ -4,7 +4,7 @@
 If you use WakaTime to track your coding activity. You can add that to your README as a bar graph or embed in your blog/portfolio. Just add this action to any of your repository and there you have it. See mine below. 
 
 ## My WakaTime Coding Activity
-<img src="https://github.com/TABTyrell/Profile-Readme-WakaTime/blob/main/images/stat.svg" alt="タブ WakaTime Activity"/>
+<img src="https://github.com/TABTyrell/Profile-Readme-WakaTime/blob/master/images/stat.svg" alt="タブ WakaTime Activity"/>
 
 ## How to add one to your README.md
 1. First get your WakaTime API Key. You can get it from your [WakaTime](https://wakatime.com) account settings. 
